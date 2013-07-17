@@ -15,7 +15,7 @@
 	"Send Notification": "Enviar Notificación",
 	"Log": "Log",
 	"Light/Switch Devices": "Dispositivios Luz/Conmutador",
-	"Temperature Sensors": "Sensores de Temeperatura",
+	"Temperature Sensors": "Sensores de Temperatura",
 	"Weather Sensors": "Sensores de Tiempo",
 	"Security Devices": "Dispositivos de Seguridad",
 	"Utility Sensors": "Sensores de Utilidades",
@@ -47,11 +47,11 @@
 	"WebsiteProtection": "Protección del Sitio Web",
 	"Username": "Usuario",
 	"Password": "Contraseña",
-	"LocalNetworks(no_username/password)": "Red Local (sin userio/contraseña)",
+	"LocalNetworks(no_username/password)": "Red Local (sin usuario/contraseña)",
 	"Networks": "Redes",
 	"(Separate by a semicolon, For Example": "(Separar por punto en coma, por ejemplo",
 	
-	"RemoteSharedPortForDomoticzClients": "Puerto Compatido Remto (Para los clientes Domoticz Remotos)",
+	"RemoteSharedPortForDomoticzClients": "Puerto Compartido Remoto (Para los clientes Domoticz Remotos)",
 	"Port": "Puerto",
 	
 	"SoftwareUpdates": "Actualizaciones de Software",
@@ -109,12 +109,12 @@
 	"(Minutes +/-)": "(Minutos +/-)",
 	"Doorbell Command": "Comando Timbre de puerta",
 	"Command": "Comando",
-	"Group On": "Group Encendido",
+	"Group On": "Grupo Encendido",
 	"On": "Encendido",
 	"Off": "Apagado",
 	
 	"No Update Available": "No hay Actualización Disponible",
-	"Error communicating to server!": "¡Error comunicando con el el servidor!",
+	"Error communicating to server!": "¡Error comunicando con el servidor!",
 	"No devices to Transfer too!": "¡No hay dispositivos a Transferir!",
 	"This Application is is designed for Internet Explorer version 10+!\nPlease upgrade your browser!": "¡Esta Aplicación está diseñada para Internet Explorer versión 10+!\n¡Por favor, actualiza tu navegador!",
 	"No New Device Selected!": "¡No hay ningún Dispositivo Seleccionado!",
@@ -122,7 +122,7 @@
 	
 	"Please enter a Latitude and Longitude!...": "¡Por favor, introduzca una Latitud y una Longitud!...",
 	"Please enter a Address to search for!...": "¡Por favor introduzca una Dirección para buscar!...",
-	"Geocode was not successful for the following reason": "Geocode no fue correctamente por la siguiente razón",
+	"Geocode was not successful for the following reason": "Geocode no funcionó correctamente por la siguiente razón",
 	"Please enter the API key!...": "¡Introduzca la clave API!...",
 	"Notification send!<br>Should arrive at your device soon...": "¡Notificación enviada!<br>Debe llegar al dispositivo pronto...",
 	"Invalid Email Settings...": "Configuración de Email incorrecta...",
@@ -173,7 +173,7 @@
 	"On command send!": "¡Enviado el comando encender!",
 	"Are you sure to delete this timers?\n\nThis action can not be undone...": "¿Estás seguro de borrar estas programaciones?\n\nEsta acción no puede deshacerse...",
 	"Are you sure to delete ALL timers?\n\nThis action can not be undone!": "¿Estás seguro de borrar TODAS programaciones?\n\nEsta acción no puede deshacerse!",
-	"Are you sure to remove this Light/Switch?": "¿Estás seguro de eliminiar esta Luz/Conmutador?",
+	"Are you sure to remove this Light/Switch?": "¿Estás seguro de eliminar esta Luz/Conmutador?",
 	"Are you sure to delete ALL Sub/Slave Devices?\n\nThis action can not be undone!": "¿Estás seguro de borrar TODOS Dispositivos Sub/Esclavos?\n\n¡Esta acción no puede ser deshecha!",
 	"Are you sure to delete this Sub/Slave Device?\n\nThis action can not be undone...": "¿Estás seguro de borrar este Dispositivo Sub/Esclavo?\n\nEsta acción no puede ser deshecha...",
 
@@ -201,7 +201,7 @@
 	"No Device Selected!": "¡Ningún Dispositivo Seleccionado!",
 	"Problem adding Device!": "¡Problema añadiendo el Dispositivo!",
 	"Are you sure to remove this Scene?": "¿Estás seguro de borrar esta Escena?",
-	"Are you sure to delete ALL Devices?\n\nThis action can not be undone!": "¿Estás seguor de borrar TODOS Dispositivos?\n\nEsta acción no puede deshacerse!",
+	"Are you sure to delete ALL Devices?\n\nThis action can not be undone!": "¿Estás seguro de borrar TODOS Dispositivos?\n\nEsta acción no puede deshacerse!",
 	"Are you sure to delete this Device?\n\nThis action can not be undone...": "¿Estás seguro de borrar este Dispositivo?\n\nEsta acción no puede deshacerse...",
 	
 	"Custom Graph": "Gráfico Personalizado",
@@ -241,7 +241,7 @@
 	"No Devices selected to Delete!": "¡Ningún Dispositivo seleccionado para Borrar!",
 	"Devices deleted.": "Dispositivos borrados.",
 	"No Main Device Selected!": "¡Ningún Dispositivo Principal Seleccionado!",
-	"Are you sure to remove this Device from your used devices?": "¿Está seguro de eliminar este Dispositivo desde tus dispositivos usados?",
+	"Are you sure to remove this Device from your used devices?": "¿Estás seguro de eliminar este Dispositivo desde tus dispositivos usados?",
 	"Are you sure you want to delete the selected Devices?": "¿Estás seguro de querer borrar los Dispositivos seleccionados?",
 	
 	"Add Camera": "Añadir Cámara",
@@ -367,7 +367,7 @@
 	"Air Quality": "Calidad del Aire",
 	"Excellent": "Excelente",
 	"Good": "Buena",
-	"Fair": "RegularFair",
+	"Fair": "Regular",
 	"Mediocre": "Mediocre",
 	"Bad": "Mala",
 	"Count": "Contar",
@@ -438,7 +438,7 @@
 	"Heavy Snow": "Muy Nublado",
 	"Snow": "Nieve",
 	"Heavy Rain": "Lluvia Fuerte",
-	"Some Clouds": "Algunas Nuves",
+	"Some Clouds": "Algunas Nubes",
 	
 	"Last Week": "Última Semana",
 	"Last Month": "Último Mes",
@@ -448,4 +448,5 @@
     "OFF": "APAGAR",
 
     "Percentage": "Porcentaje"
+
 }
