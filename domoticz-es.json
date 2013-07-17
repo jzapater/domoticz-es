@@ -122,7 +122,7 @@
 	
 	"Please enter a Latitude and Longitude!...": "¡Por favor, introduzca una Latitud y una Longitud!...",
 	"Please enter a Address to search for!...": "¡Por favor introduzca una Dirección para buscar!...",
-	"Geocode was not successful for the following reason": "Geocode no fue correctamente por la siguiente razón,
+	"Geocode was not successful for the following reason": "Geocode no fue correctamente por la siguiente razón",
 	"Please enter the API key!...": "¡Introduzca la clave API!...",
 	"Notification send!<br>Should arrive at your device soon...": "¡Notificación enviada!<br>Debe llegar al dispositivo pronto...",
 	"Invalid Email Settings...": "Configuración de Email incorrecta...",
@@ -445,7 +445,7 @@
 	"Last Year": "Último Año",
 
     "ON": "ENCENDER",
-    "OFF": "APAGAR"
+    "OFF": "APAGAR",
 
     "Percentage": "Porcentaje"
 }
