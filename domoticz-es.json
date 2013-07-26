@@ -10,7 +10,7 @@
 	"Devices": "Dispositivos",
 	"Application Settings": "Configuración de la Aplicación",
 	"More options": "Más Opciones",
-	"Cameras": "Cámeras",
+	"Cameras": "Cámaras",
 	"Edit Users": "Editar Usuarios",
 	"Send Notification": "Enviar Notificación",
 	"Log": "Log",
@@ -447,6 +447,20 @@
 	"ON": "ENCENDER",
 	"OFF": "APAGAR",
 
-	"Percentage": "Porcentaje"
+	"Percentage": "Porcentaje",
 
+    "Dew Point": "Punto de Rocío",
+ 
+    "Update Available !... Update Now?": "¡ Actualización disponible !... ¿Actualizo ahora?",
+    "A new version of Domoticz is Available!...<br>Use the Setup tab to update.": "¡Una nueva versión de Domoticz está disponible!...<br>Usa la página de Configuración para actualizar.",
+
+    "No Lights/Switches found or added in the system...": "Ninguna Luz/Conmutador se ha encontrado o se ha añadido al sistema...",
+    "No Scenes defined yet...": "No hay Escenas definidas todavía...",
+    "No Temperature sensors found or added in the system...": "Ningún sensor de Temperatura encontrado o añadido al sistema...",
+    "No Weather sensors found or added in the system...": "Ningún sensor de Tiempo encontrado o añadido al sistema...",
+    "No Utility sensors found or added in the system...": "Ningún sensor de Utilidades encontrado o añadido al sistema...",
+    "User Interface": "Interfaz de Usuario",
+
+    "Temp": "Temp",
+    "Chill": "Frío"
 }
