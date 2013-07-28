@@ -462,5 +462,8 @@
     "User Interface": "Interfaz de Usuario",
 
     "Temp": "Temp",
-    "Chill": "Frío"
+    "Chill": "Frío",
+
+    "SecurityPanel": "Panel de Seguridad",
+    "WRONG CODE": "¡CÓDIGO ERRÓNEO!"
 }
