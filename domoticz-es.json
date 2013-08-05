@@ -465,5 +465,21 @@
     "Chill": "Frío",
 
     "SecurityPanel": "Panel de Seguridad",
-    "WRONG CODE": "¡CÓDIGO ERRÓNEO!"
+    "WRONG CODE": "¡CÓDIGO ERRÓNEO!",
+
+    "Scene": "Escena",
+    "Group": "Grupo",
+
+    "Browser Cache is being refreshed": "Se está refrescando la Caché del Navegador",
+    "Please standby": "Por favor espera",
+
+    "Incorrect Username/Password!": "¡Usuario/Contraseña incorrecta!",
+    "To many login attempts!": "¡Muchos intentos de entrada!",
+    "Login": "Entrada",
+    "Logout": "Cerrar sesión",
+    "Domoticz Offline": "Domoticz Desconectado",
+
+    "Authentication": "Autenticación",
+    "Login Page": "Página de entrada",
+    "Basic-Auth": "Aut-Básica"
 }
